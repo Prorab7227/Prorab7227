@@ -16,8 +16,25 @@ Fintech and legal-domain backend systems built for real production load - govern
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Prorab7227&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=github_dark&hide_rank=true" height="140" alt="stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Prorab7227&hide_title=true&hide_border=true&layout=compact&card_width=280&langs_count=5&theme=github_dark" height="140" alt="languages"/>
+## GitHub activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prorab7227&theme=github_dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prorab7227&theme=github">
+  <img alt="GitHub profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prorab7227&theme=github">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prorab7227&theme=github_dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prorab7227&theme=github">
+  <img alt="Top languages by repository" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prorab7227&theme=github">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Prorab7227&theme=github_dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Prorab7227&theme=github">
+  <img alt="Top languages by commits" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Prorab7227&theme=github">
+</picture>
 
 </div>
 
