@@ -56,13 +56,5 @@ Fintech and legal-domain backend systems built for real production load - govern
 <a href="https://t.me/PrfssnlSlv" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=1a1a1a&style=flat-square" height="28" alt="telegram"/>
 </a>
-&nbsp;
-<a href="https://www.linkedin.com/in/mykyta-slobodianiuk-a93a87333/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=1a1a1a&style=flat-square" height="28" alt="linkedin"/>
-</a>
-&nbsp;
-<a href="https://discord.com/users/544915751107035136" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=1a1a1a&style=flat-square" height="28" alt="discord"/>
-</a>
 
 </div>
