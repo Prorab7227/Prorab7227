@@ -8,19 +8,6 @@ Python · Django · DRF
 
 <br>
 
-### Stack
-
-```
-Backend       Python, Django, DRF
-Database      PostgreSQL, Redis
-Queues        RabbitMQ, Celery
-Infra         Docker, Nginx, Gunicorn, AWS S3
-Desktop       PyQt5, WebSockets
-Frontend      JS, HTML, CSS
-```
-
-<br>
-
 ### Focus
 
 Fintech and legal-domain backend systems built for real production load - government integrations (digital identity, e-signature), electronic document workflows, a monolith on its way to a service-based architecture.
