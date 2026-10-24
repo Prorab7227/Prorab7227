@@ -1,61 +1,74 @@
 <div align="center">
 
-# Backend Developer
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1200&color=3776AB&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Prorab7227;Middle+Python+Backend+Developer;Team+Lead;Django+%C2%B7+DRF+%C2%B7+PostgreSQL+%C2%B7+Celery" alt="Typing SVG" />
 
-Python · Django
+<p>
+  <img src="https://img.shields.io/badge/Open_to-Remote_Work-2ea44f?style=for-the-badge" alt="Open to remote"/>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=Prorab7227&label=Profile%20views&color=3776AB&style=flat" alt="Profile views"/>
 
 </div>
 
+---
+
+## 👨‍💻 About me
+
+- 🐍 **Python backend developer** focused on Django / DRF, reliable APIs and background processing
+- 🔵🟡 Integrated Ukrainian government services: **Diia** (identity verification), **IIT** (qualified e-signature), **YouControl**
+- 🔍 Built scrapers for TripAdvisor, Trustpilot, Booking and real-time cargo ship tracking
+- 🎓 B.Sc. in Applied Mathematics
+- 🌍 Ukrainian (native), English (B1-B2)
+
+## 🛠 Tech stack
+
 <div align="center">
 
-## GitHub activity
+**Backend**<br><br>
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,redis,sqlite,rabbitmq&perline=7" alt="Backend"/>
+
+**Infrastructure & Tools**<br><br>
+<img src="https://skillicons.dev/icons?i=docker,nginx,linux,aws,githubactions,git,github&perline=7" alt="Infrastructure"/>
+
+**Also used**<br><br>
+<img src="https://skillicons.dev/icons?i=js,html,css,selenium,qt,vscode,latex&perline=7" alt="Other"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gunicorn-499848?style=flat-square&logo=gunicorn&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
+<img src="https://img.shields.io/badge/BeautifulSoup-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
+
+</div>
+
+## 📊 GitHub stats
+
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prorab7227&theme=github_dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prorab7227&theme=github">
-  <img alt="GitHub profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prorab7227&theme=github">
+  <img alt="Profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prorab7227&theme=github">
 </picture>
 
-</div>
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Prorab7227&theme=github_dark">
+  <img alt="Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Prorab7227&theme=github" height="160">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Prorab7227&theme=github_dark&utcOffset=2">
+  <img alt="Productive time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Prorab7227&theme=github&utcOffset=2" height="160">
+</picture>
 
 <br>
 
-<div align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" width="48"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="48" width="48"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="48" width="48"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="48" width="48"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="48" width="48"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="48" width="48"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="48" width="48"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="48" width="48"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="48" width="48"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="48" width="48"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48" width="48"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" height="48" width="48"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="48" width="48"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48" width="48"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="48" width="48"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="48" width="48"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="48" width="48"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="48" width="48"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="48" width="48"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="48" width="48"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="48" width="48"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="48" width="48"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="48" width="48"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="48" width="48"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="48" width="48"/>&nbsp;&nbsp;
-
-</div>
-
-<br>
-
-<div align="center">
-
-<a href="https://t.me/PrfssnlSlv" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=1a1a1a&style=flat-square" height="36" width="140" alt="telegram"/>
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Prorab7227&theme=github-dark-blue&hide_border=true">
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=Prorab7227&theme=default&hide_border=true">
+</picture>
 
 </div>
